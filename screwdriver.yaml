@@ -1,5 +1,3 @@
-workflow:
-    - publishss
 shared:
     image: node:6
 jobs:
