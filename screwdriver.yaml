@@ -4,4 +4,4 @@ jobs:
     main:
         steps:
             - set-env: export greeting="Hello, world!"
-            - get-env: echo hi $greeting
+            - get-env: echo $greeting
